@@ -15,6 +15,5 @@ Miscellaneous Python scripts
   4. Run the script  
   ```bash
   python The_Matrix.py
-  ```
-  5. Enjoy! 
-  
+  ``` 
+  ![](figs/The_Matrix.png)
